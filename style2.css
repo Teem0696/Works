@@ -1,0 +1,45 @@
+
+.home{
+    background-color: blue;  
+    text-align: center;
+}
+.lorem1{
+    background-color: rgb(57, 211, 216);
+}
+.picture{
+    background-color: cyan;
+}
+.color1{
+    background-color: cyan;
+    text-align: center;
+}
+.link2{
+    background-color:rgb(162, 231, 34);
+}
+.link3{
+    background-color: rgb(174, 224, 36);
+}
+.link4{
+    background-color: rgb(141, 211, 28);
+}
+.link5{
+    background-color:rgb(168, 226, 31)
+}
+.color3{
+    color: darkorchid;
+    background-color: rgb(196, 98, 119);
+}
+.p1{
+    background-color: firebrick;
+}
+.p2{
+    background-color: gold;
+}
+.p3{
+    background-color: lawngreen;
+}
+.end{
+    text-align: center;
+    color: lightgray;
+    background-color: black;
+}
